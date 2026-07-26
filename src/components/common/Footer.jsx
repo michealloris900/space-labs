@@ -9,7 +9,7 @@ const Footer = () => {
       { name: 'Tata Surya 3D', path: '/solar-system' },
       { name: 'Misi NASA Live', path: '/missions' },
       { name: 'Galeri Foto', path: '/gallery' },
-      { name: 'Observasi Langit', path: '/observation' },
+      { name: 'Observasi Langit atas', path: '/observation' },
     ],
     'Edukasi': [
       { name: 'Kursus Dasar', path: '/education/basic' },
